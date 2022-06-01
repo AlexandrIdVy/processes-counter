@@ -29,7 +29,7 @@
 * Отображение общего количества проведенных технологических процессов.
 * Сохранение количества проведенных процессов в отдельный файл в формате: 
  
-<div style="margin-left: 40px">
+<div style="margin-left: 540px">
 <img src="https://github.com/AlexandrIdVy/processes-counter/blob/master/log.png">
 </div>
 
