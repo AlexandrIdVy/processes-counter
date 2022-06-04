@@ -30,7 +30,7 @@
 * Сохранение количества проведенных процессов в отдельный файл в формате: 
  
 <div align="center">
-<img src="https://github.com/AlexandrIdVy/processes-counter/blob/master/log.png">
+<img src="https://github.com/AlexandrIdVy/processes-counter/blob/master/logs.png">
 </div>
 
 * Сохранение общего количества проведенных процессов в отдельный файл.
